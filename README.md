@@ -24,7 +24,7 @@ Change Grain number to change the number of division.
 
 
 
-  ![image](https://github.com/SuikaSibyl/CardinalSpline/blob/main/figs/cahngefrag.gif)
+  ![image](https://github.com/SuikaSibyl/CardinalSpline/blob/main/figs/changefrag.gif)
 
 
 
