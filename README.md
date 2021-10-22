@@ -3,8 +3,7 @@ Cardinal spline in Qt + OpenGL, with simple car animation.
 
 
 
-  ![image](https://github.com/SuikaSibyl/CardinalSpline/blob/main/Figs/capture.png)
-
+  ![image](https://github.com/SuikaSibyl/CardinalSpline/blob/main/figs/capture.png)
 
 
 ## 1. Build
@@ -17,7 +16,7 @@ Draw Curve with Pen / Eraser / Manipulator Tools.
 
 
 
-  ![image](https://github.com/SuikaSibyl/CardinalSpline/blob/main/Figs/drawcurve.png)
+  ![image](https://github.com/SuikaSibyl/CardinalSpline/blob/main/figs/drawcurve.gif)
 
 
 
@@ -25,7 +24,7 @@ Change Grain number to change the number of division.
 
 
 
-  ![image](https://github.com/SuikaSibyl/CardinalSpline/blob/main/Figs/cahngefrag.png)
+  ![image](https://github.com/SuikaSibyl/CardinalSpline/blob/main/figs/cahngefrag.gif)
 
 
 
@@ -33,7 +32,7 @@ Change tau number to change the strength of tendency to be stright line on contr
 
 
 
-  ![image](https://github.com/SuikaSibyl/CardinalSpline/blob/main/Figs/changetau.png)
+  ![image](https://github.com/SuikaSibyl/CardinalSpline/blob/main/figs/changetau.gif)
 
 
 
@@ -41,4 +40,4 @@ You could also play a simple animation to test the curve division and change the
 
 
 
-  ![image](https://github.com/SuikaSibyl/CardinalSpline/blob/main/Figs/animation.png)
+  ![image](https://github.com/SuikaSibyl/CardinalSpline/blob/main/figs/animation.gif)
